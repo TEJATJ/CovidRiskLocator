@@ -11,8 +11,7 @@ A particular user can only be marked positive by registered medical professional
 ## Installation
    Clone the project and run
    ```
-   npm install
-   
+   npm install   
    ```   
    which will install the dependencies
    
@@ -20,7 +19,7 @@ A particular user can only be marked positive by registered medical professional
     
  ## Usage
   
-   Connect The Mobile To your laptop using usb (Make Sure to enable debugger mode in the Mobile)
+   Connect The Mobile To your laptop using usb (Make Sure to enable developer and then debugger mode in the Mobile)
    Run the following command
     
    ```
