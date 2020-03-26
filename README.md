@@ -1,7 +1,7 @@
 # CovidRiskLocator
    Covid Risk Locator is a mobile application which lets a user know the status of Risk when he is entering an area, that was previously visited by a person Diagonised with COVID-19. A user gets a unique ID upon installation of the App without collecting any personal info. After getting the neccessary permissions from the user, it will track the locations the user has visted for the past 14 days. If in case a particular user is tested positive, his tracking data is used to warn other people who are visiting a location visited by the diagonised patient.
    
-A particular user can only be marked positive by registered medical professionals with whom a control web page is avaliable. The medical professionals only enters the ID issued in the App without entering any personal details of the patient. This ID is then marked with status as positive, which helps warn other people nearby and notifies them with necessary precations before entering a particular area.
+A particular user can only be marked positive by registered medical professionals with whom a control web page is avaliable. The medical professionals only enters the ID issued in the App without entering any personal details of the patient. This ID is then marked with status as positive, which helps warn other people nearby and notifies them with necessary precautions before entering a particular area.
 
 ## Requirements
    1. Node >= 10
